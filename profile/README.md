@@ -1,22 +1,23 @@
 # 🚀 Welcome to Metana  
 
-[Metana](https://metana.io) is a **leading coding bootcamp** that transforms developers into **blockchain engineers, Solidity and Rust developers, full-stack software engineers, and UI/UX designers** through **hands-on, project-based learning**.  
+[Metana](https://metana.io) is a **leading coding bootcamp** that transforms developers into **blockchain engineers, Solidity and Rust developers, and full-stack software engineers through **hands-on, project-based learning**.  
 
 ![Metana Bootcamp](https://metana.io/wp-content/uploads/2021/11/Pair-programming-pana.svg)
 
----
 
-# 🎯 Bootcamps We Offer  
 
-| Program | Level | Duration | Weekly Hours | Description |  
-|---------|-------|----------|--------------|-------------|  
-| **Blockchain Engineer** | Beginner | 7 months | 20 h/week | From coding basics to Web3 development mastery. [Learn more](https://metana.io/web3-beginner-bootcamp/) |  
-| **Solidity Developer** | Advanced | 4 months | 22 h/week | Build smart contracts and master Ethereum development. [Learn more](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/) |  
-| **Rust Developer** | Advanced | 4 months | 22 h/week | Unlock Rust skills for cutting-edge blockchain projects. [Learn more](https://metana.io/web3-rust-bootcamp-solana-blockchain/) |  
-| **Full Stack Software Engineer** | Beginner | 4 months | 20 h/week | Learn to code, build, and launch full-scale web apps. [Learn more](https://metana.io/full-stack-software-engineer-bootcamp/) |  
-| **Advanced Software Engineer** | Advanced | 4 months | 20 h/week | Boost your coding expertise and aim for top-tier tech roles. [Learn more](https://metana.io/advanced-software-engineering-bootcamp/) |  
-| **UI/UX Designer** | Beginner | 4 months | 22 h/week | Design clear, appealing user interfaces. *Coming Soon* |  
 
+## 🎯 Bootcamps We Offer  
+
+| **Career Path** | **Program** | **Level** | **Duration** | **Weekly Hours** | **Description** |  
+|----------------|------------|-----------|-------------|---------------|---------------|  
+| **Blockchain Engineer** | Web3 Beginner Bootcamp | Beginner | 7 months | 20 h/week | From coding basics to Web3 development mastery. [Learn more](https://metana.io/web3-beginner-bootcamp/) |  
+| **Solidity Developer** | Web3 Solidity Bootcamp | Advanced | 4 months | 22 h/week | Build smart contracts and master Ethereum development. [Learn more](https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/) |  
+| **Rust Developer** | Web3 Rust Bootcamp | Advanced | 4 months | 22 h/week | Unlock Rust skills for cutting-edge blockchain projects. [Learn more](https://metana.io/web3-rust-bootcamp-solana-blockchain/) |  
+| **Full Stack Software Developer** | Full Stack Software Engineering Bootcamp | Beginner | 4 months | 20 h/week | Learn to code, build, and launch full-scale web apps. [Learn more](https://metana.io/full-stack-software-engineer-bootcamp/) |  
+| **Software Engineer** | Advanced Software Engineering Bootcamp | Advanced | 4 months | 20 h/week | Boost your coding expertise and aim for top-tier tech roles. [Learn more](https://metana.io/advanced-software-engineering-bootcamp/) |  
+| **UI/UX Designer** | UI/UX Bootcamp | Beginner | 4 months | 22 h/week | Design clear, appealing user interfaces. *Coming Soon* |  
+ 
 
 
 ## 🎯 Career Support with **Metana's JobCamp™️**  
