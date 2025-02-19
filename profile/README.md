@@ -37,17 +37,71 @@
 
 ## ⭐ Student Success & Recognition  
 
-✔ **97.6%** Student Satisfaction  
+At Metana, we are committed to **helping students succeed** by providing industry-relevant training, hands-on projects, and career guidance. Our **graduates consistently achieve high satisfaction rates, secure top-tier tech jobs, and experience significant salary growth**.  
 
-✔ **4.8/5** stars on Course Report & SwitchUp  
+### 📈 Student Satisfaction & Graduation Rates  
+✔ **97.6% overall student satisfaction** across all bootcamps  
 
-✔ **Recognized by Forbes** as one of the best coding bootcamps with job guarantees.  
+✔ **4.8/5 stars on Course Report & SwitchUp**, ranking among the top coding bootcamps  
 
-📢 *"Designed by software development experts, Metana’s fast-paced Software Engineering Bootcamp helps learners acquire job-ready skills."* - **Forbes**  
+✔ **91% graduation rate** (a significant increase from **75% in 2023**)  
+
+✔ **80% student growth** in 2024, with **132 graduates** across Web3 and Full-Stack programs  
+
+### 💼 Career Outcomes & Employment Rates  
+✔ **67%** of students secured jobs before graduating 
+
+✔ **31%** hired within 3 to 6 months after graduation 
+
+✔ **2%** secured jobs after 6 months  
+
+✔ Graduates work in **full-time (70%), contract-based (20%), part-time (7%),** and **freelance (3%) roles**  
+
+### 💰 Salary Growth & Top Job Roles  
+✔ **$27K average salary increase** for Metana graduates in 2024  
+
+**Top job roles secured**  
+   - **Senior Smart Contract Developer** → **$120K/year**  
+   - **Developer Relations (Dev-Rel)** → **$110K/year**  
+   - **Senior Full-Stack Developer** → **$85K/year**  
+   - **Senior Back-End Developer** → **$75K/year**  
+
+**Salary progressions**  
+- **Senior Smart Contract Developer** → $70K before Metana → **$132K after Metana**  
+- **Dev-Rel Engineer** → $48K before Metana → **$110K after Metana**  
+- **Full-Stack Developer** → $35K before Metana → **$70K after Metana**  
+- **Senior Back-End Developer** → $60K before Metana → **$75K after Metana**  
+
+### 🌎 Student Demographics & Backgrounds  
+✔ **76% male, 24% female**  
+
+**Diverse backgrounds**  
+   - 28% STEM  
+   - 17% Finance  
+   - 12% Services  
+   - 15% Sales 
+   - 9% Management
+   - 19% Other  
+
+**Geographic distribution**  
+   - 🇺🇸 United States  
+   - 🇬🇧 United Kingdom  
+   - 🇮🇳 India  
+   - 🇨🇦 Canada  
+   - 🇮🇩 Indonesia  
+   - 🌍 Other regions  
+
+### 🏆 Top Hiring Destinations  
+✔ Graduates have landed roles at **top Web3 and tech companies**, including:  
+   - **Talisman** – Remote Blockchain Engineer ($130K)  
+   - **Consensys** – Senior Developer  
+   - **Various Web2 & Web3 startups**  
+
+📢 *"Designed by software development experts, Metana’s fast-paced Software Engineering Bootcamp helps learners acquire job-ready skills."* – **Forbes**  
 
 🔗 **[Read More on Forbes](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)**  
 
-<br>
+
 
 ## 📞 Contact Us  
 
