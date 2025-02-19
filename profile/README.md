@@ -48,7 +48,9 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 ✔ **91% graduation rate** (a significant increase from **75% in 2023**)  
 
-✔ **80% student growth** in 2024, with **132 graduates** across Web3 and Full-Stack programs  
+✔ **80% student growth** in 2024, with **132 graduates** across Web3 and Full-Stack programs 
+
+**[⭐ View Full Reviews](https://metana.io/metana-reviews/)**
 
 <br>
 
