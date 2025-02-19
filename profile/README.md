@@ -39,6 +39,8 @@
 
 At Metana, we are committed to **helping students succeed** by providing industry-relevant training, hands-on projects, and career guidance. Our **graduates consistently achieve high satisfaction rates, secure top-tier tech jobs, and experience significant salary growth**.  
 
+<br>
+
 ### 📈 Student Satisfaction & Graduation Rates  
 ✔ **97.6% overall student satisfaction** across all bootcamps  
 
@@ -64,13 +66,13 @@ At Metana, we are committed to **helping students succeed** by providing industr
 ### 💰 Salary Growth & Top Job Roles  
 ✔ **$27K average salary increase** for Metana graduates in 2024  
 
-**Top job roles secured**  
+<u>**Top job roles secured**  </u>
    - **Senior Smart Contract Developer** → **$120K/year**  
    - **Developer Relations (Dev-Rel)** → **$110K/year**  
    - **Senior Full-Stack Developer** → **$85K/year**  
    - **Senior Back-End Developer** → **$75K/year**  
 
-**Salary progressions**  
+<u>**Salary progressions**  </u>
 - **Senior Smart Contract Developer** → $70K before Metana → **$132K after Metana**  
 - **Dev-Rel Engineer** → $48K before Metana → **$110K after Metana**  
 - **Full-Stack Developer** → $35K before Metana → **$70K after Metana**  
@@ -81,7 +83,7 @@ At Metana, we are committed to **helping students succeed** by providing industr
 ### 🌎 Student Demographics & Backgrounds  
 ✔ **76% male, 24% female**  
 
-**Diverse backgrounds**  
+<u>**Diverse backgrounds**  </u>
    - 28% STEM  
    - 17% Finance  
    - 12% Services  
@@ -89,7 +91,7 @@ At Metana, we are committed to **helping students succeed** by providing industr
    - 9% Management
    - 19% Other  
 
-**Geographic distribution**  
+<u>**Geographic distribution**</u>  
    - 🇺🇸 United States  
    - 🇬🇧 United Kingdom  
    - 🇮🇳 India  
@@ -108,6 +110,8 @@ At Metana, we are committed to **helping students succeed** by providing industr
 📢 *"Designed by software development experts, Metana’s fast-paced Software Engineering Bootcamp helps learners acquire job-ready skills."* – **Forbes**  
 
 🔗 **[Read More on Forbes](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)**  
+
+📥 **[Download the 2024 Metana Outcomes Report](https://metana.io/wp-content/uploads/2025/01/2024-Metana-Outcomes-Report.pdf)**
 
 <br>
 
