@@ -2,9 +2,7 @@
 
 [Metana](https://metana.io) is a **leading coding bootcamp** that transforms developers into **blockchain engineers, Solidity and Rust developers, and full-stack software engineers** through **hands-on, project-based learning**.  
 
-![Metana Bootcamp](/profile/webinar.svg)
-
-
+<br>
 
 ## 🎯 Bootcamps We Offer  
 
