@@ -48,6 +48,8 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 ✔ **80% student growth** in 2024, with **132 graduates** across Web3 and Full-Stack programs  
 
+<br>
+
 ### 💼 Career Outcomes & Employment Rates  
 ✔ **67%** of students secured jobs before graduating 
 
@@ -56,6 +58,8 @@ At Metana, we are committed to **helping students succeed** by providing industr
 ✔ **2%** secured jobs after 6 months  
 
 ✔ Graduates work in **full-time (70%), contract-based (20%), part-time (7%),** and **freelance (3%) roles**  
+
+<br>
 
 ### 💰 Salary Growth & Top Job Roles  
 ✔ **$27K average salary increase** for Metana graduates in 2024  
@@ -71,6 +75,8 @@ At Metana, we are committed to **helping students succeed** by providing industr
 - **Dev-Rel Engineer** → $48K before Metana → **$110K after Metana**  
 - **Full-Stack Developer** → $35K before Metana → **$70K after Metana**  
 - **Senior Back-End Developer** → $60K before Metana → **$75K after Metana**  
+
+<br>
 
 ### 🌎 Student Demographics & Backgrounds  
 ✔ **76% male, 24% female**  
@@ -91,6 +97,8 @@ At Metana, we are committed to **helping students succeed** by providing industr
    - 🇮🇩 Indonesia  
    - 🌍 Other regions  
 
+<br>
+
 ### 🏆 Top Hiring Destinations  
 ✔ Graduates have landed roles at **top Web3 and tech companies**, including:  
    - **Talisman** – Remote Blockchain Engineer ($130K)  
@@ -101,7 +109,7 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 🔗 **[Read More on Forbes](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)**  
 
-
+<br>
 
 ## 📞 Contact Us  
 
