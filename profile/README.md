@@ -48,7 +48,7 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 ✔ **80% student growth** in 2024, with **132 graduates** across Web3 and Full-Stack programs 
 
-⭐ **[View Full Reviews](https://metana.io/metana-reviews/)**
+[![View Full Reviews](https://img.shields.io/badge/View%20Full%20Reviews-B5F732?style=for-the-badge&logo=trustpilot&logoColor=black)](https://metana.io/metana-reviews/)
 
 <br>
 
@@ -109,9 +109,10 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 📢 *"Designed by software development experts, Metana’s fast-paced Software Engineering Bootcamp helps learners acquire job-ready skills."* – **Forbes**  
 
-🔗 **[Read More on Forbes](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)**  
+[![Read More on Forbes](https://img.shields.io/badge/Read%20More%20on%20Forbes-B5F732?style=for-the-badge&logo=Forbes&logoColor=black)](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)
 
-📥 **[Download the 2024 Metana Outcomes Report](https://metana.io/wp-content/uploads/2025/01/2024-Metana-Outcomes-Report.pdf)**
+[![Download 2024 Metana Outcomes Report](https://img.shields.io/badge/Download%202024%20Metana%20Outcomes%20Report-B5F732?style=for-the-badge&logo=readme&logoColor=black)](https://metana.io/wp-content/uploads/2025/01/2024-Metana-Outcomes-Report.pdf)
+
 
 <br>
 
