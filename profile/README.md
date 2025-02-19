@@ -5,7 +5,6 @@
 ![Metana Bootcamp](/profile/webinar.svg)
 
 
-<br>
 
 ## 🎯 Bootcamps We Offer  
 
@@ -22,7 +21,8 @@
 
 ## 🎯 Career Support with **Metana's JobCamp™️**  
 
-💡 **Metana’s JobCamp™️** helps you land your **dream job** by teaching:  
+💡 **Metana’s JobCamp™️** helps you land your **dream job**.
+
 ✔ How to make lasting first impressions  
 
 ✔ Networking effectively & job search strategies  
@@ -52,7 +52,9 @@
 ## 📞 Contact Us  
 
 📲 **Call us directly**: (415) 416-0800  
+
 📩 **Admissions & Tuition Inquiries**: [admissions@metana.io](mailto:admissions@metana.io)  
+
 📩 **General Inquiries & Partnerships**: [info@metana.io](mailto:info@metana.io)  
 
 🌐 **Visit us at** [Metana.io](https://metana.io)  
