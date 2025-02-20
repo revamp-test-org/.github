@@ -104,9 +104,10 @@ At Metana, we are committed to **helping students succeed** by providing industr
 ### 🏆 Top Hiring Destinations  
 ✔ Graduates have landed roles at **top Web3 and tech companies**, including:  
    - **Talisman** – Remote Blockchain Engineer ($130K)  
-   - **Consensys** – Senior Developer  
-   - **Various Web2 & Web3 startups**  
-
+   - **Consensys** – Senior Developer 💰 Competitive salary
+   - **Nethermind** - Blockchain Engineer 💰 Competitive salary
+   - **ChainSafe** – Web3 Developer 💰 Competitive salary
+   
 📢 *"Designed by software development experts, Metana’s fast-paced Software Engineering Bootcamp helps learners acquire job-ready skills."* – **Forbes**  
 
 [![Read More on Forbes](https://img.shields.io/badge/Read%20More%20on%20Forbes-B5F732?style=for-the-badge&logo=Forbes&logoColor=black)](https://www.forbes.com/advisor/education/bootcamps/best-coding-bootcamps-with-job-guarantee/)
