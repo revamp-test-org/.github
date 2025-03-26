@@ -117,6 +117,35 @@ At Metana, we are committed to **helping students succeed** by providing industr
 
 <br>
 
+## 🌐 Follow Us  
+
+**Stay connected with us on social media:**
+
+<a href="https://www.facebook.com/MetanaHQ/">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg" width="40" height="40" />
+</a>
+<a href="https://discord.gg/34HUEGrSfX">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" width="40" height="40" />
+</a>
+<a href="https://github.com/metana-inc">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" width="40" height="40" />
+</a>
+<a href="https://www.instagram.com/metanahq/">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="40" height="40" />
+</a>
+<a href="https://www.youtube.com/@MetanaHQ">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg" width="40" height="40" />
+</a>
+<a href="https://www.tiktok.com/@metana.io">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/tiktok.svg" width="40" height="40" />
+</a>
+<a href="https://www.linkedin.com/school/metana/">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="40" height="40" />
+</a>
+
+<br>
+<br>
+
 ## 📞 Contact Us  
 
 📲 **Call us directly**: (415) 416-0800  
