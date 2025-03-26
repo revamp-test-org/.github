@@ -1,8 +1,9 @@
+# 🚀 Welcome to Metana  
 
  <img src="https://github.com/revamp-test-org/.github/blob/main/profile/02_Final_Comp.gif"  />
 
 
-# 🚀 Welcome to Metana  
+
 
 [Metana](https://metana.io) is a **leading coding bootcamp** that transforms developers into **blockchain engineers, Solidity and Rust developers, and full-stack software engineers** through **hands-on, project-based learning**.  
 
